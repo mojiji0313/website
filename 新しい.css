@@ -5,15 +5,15 @@ body {
 }
 .header {
   background-color: white;
-  padding: 2em;
+  padding: 5em;
 }
 .footer {
   background-color: white;
-  padding: 2em;
+  padding: 5em;
 }
 .main {
   background-color: #ff6868;
-  padding: 1em;
+  padding: 5em;
 }
 h1 {
   font-size: 150%;
